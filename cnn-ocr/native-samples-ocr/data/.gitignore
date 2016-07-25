@@ -1,0 +1,10 @@
+/classifier_testing_images
+/classifier_testing_images~
+/classifier_training_images
+/classifier_training_images~
+/detector_testing_images
+/detector_training_images
+classifier_train_list.txt
+classifier_train_list~.txt
+classifier_test_list.txt
+classifier_test_list~.txt

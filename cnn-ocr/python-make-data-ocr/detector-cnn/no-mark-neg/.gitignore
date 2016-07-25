@@ -1,0 +1,10 @@
+/ocr_detector_test_lmdb
+/ocr_detector_train_lmdb
+/ocr_recog_test_lmdb
+/ocr_recog_train_lmdb
+/log
+*.INFO
+detector_test_list.txt
+detector_train_list.txt
+detector_test_list-full.txt
+detector_train_list-full.txt

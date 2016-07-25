@@ -1,0 +1,1 @@
+.\bin_cuda\cpp_classification .\ocr_recog_casia_googleNet_deploy.prototxt .\ocr_recog\ocr_recog_casia_googleNet_iter_350000.caffemodel .\ocr_recog_casia_googlenet_mean.binaryproto .\ocr_recog_synset_words.txt .\result\C_20160108_1910_crop0_40.jpg

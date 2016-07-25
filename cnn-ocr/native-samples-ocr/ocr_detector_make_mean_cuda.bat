@@ -1,0 +1,10 @@
+rem Compute the mean image from the imagenet training lmdb
+rem N.B. this is available in data/ilsvrc12
+
+set EXAMPLE=.\
+set DATA=.\
+set BUILD=..\..\bin_cuda
+
+%BUILD%\compute_image_mean %EXAMPLE%\ocr_detector_train_lmdb %DATA%\ocr_detector_mean.binaryproto
+
+echo "Done."

@@ -1,0 +1,1 @@
+..\..\bin_cuda\cpp_classification .\ocr_detector_deploy.prototxt .\ocr_detector\ocr_detector_iter_5000.caffemodel.h5 .\ocr_detector_mean.binaryproto .\ocr_detector_synset_words.txt .\data\detector_testing_images\detector_testing_im6551.jpg

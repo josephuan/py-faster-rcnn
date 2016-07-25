@@ -1,0 +1,7 @@
+/heatmap
+/result
+/caffe
+*.jpg
+*.pyc
+*.jpg.txt
+

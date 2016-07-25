@@ -1,0 +1,56 @@
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 
+
+D:\hwang\caffe_win7\examples\ocr>set TOOLS=..\..\bin_cuda 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver.prototxt 
+
+D:\hwang\caffe_win7\examples\ocr>rem reduce learning rate by factor of 10 after 8 epochs 
+
+D:\hwang\caffe_win7\examples\ocr>..\..\bin_cuda\caffe train --solver=.\ocr_detector_solver_lr1.prototxt --snapshot=.\ocr_detector\ocr_detector_iter_4000.solverstate.h5 

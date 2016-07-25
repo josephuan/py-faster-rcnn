@@ -1,0 +1,6 @@
+.gitignore
+modellist.txt
+ocr_recog_iter_4000.caffemodel.h5
+ocr_recog_iter_4000.solverstate.h5
+ocr_recog_iter_5000.caffemodel.h5
+ocr_recog_iter_5000.solverstate.h5

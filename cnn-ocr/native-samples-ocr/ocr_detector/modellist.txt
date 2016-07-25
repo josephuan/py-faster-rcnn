@@ -1,0 +1,12 @@
+.gitignore
+modellist.txt
+ocr_detector_iter_4000.caffemodel.h5
+ocr_detector_iter_4000.solverstate.h5
+ocr_detector_iter_5000.solverstate.h5
+ocr_detector_iter_5000_p1s2_p2s2_p3s2.caffemodel.h5
+ocr_detector_iter_5000_p3s1.caffemodel.h5
+ocr_detector_iter_5000_p3s1_fc.caffemodel
+ocr_detector_iter_5000_p3s1_p2s1.caffemodel.h5
+ocr_detector_iter_5000_p3s1_p2s1_fc.caffemodel
+ocr_detector_iter_5000_p3s1_p2s1_p1s1.caffemodel.h5
+pmsn=pool-m-stride-n.txt

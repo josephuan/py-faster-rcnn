@@ -1,0 +1,13 @@
+/ocr_detector_test_lmdb
+/ocr_detector_train_lmdb
+/ocr_recog_test_lmdb
+/ocr_recog_train_lmdb
+/log
+/data
+/result
+/ocr_recog_casia_googlenet_64in_test_lmdb
+/ocr_recog_casia_googlenet_64in_train_lmdb
+/ocr_recog_casia_googlenet_test_lmdb
+/ocr_recog_casia_googlenet_train_lmdb
+classifier_test_list.txt
+classifier_train_list.txt
