@@ -1,0 +1,13 @@
+/obj_marks
+/result
+/result1
+/new_photos
+/new_text_marks
+/photos
+/pic-selected-as-background
+/renderer_bin
+/text_marks
+pygame-1.9.2a0-cp27-none-win_amd64.whl
+*.zip
+*.pyc
+
