@@ -1,0 +1,1 @@
+python .\tools\train_faster_rcnn_alt_opt.py --gpu 0 --net_name ZF --weights data\imagenet_models\ZF.v2.caffemodel --cfg experiments\cfgs\faster_rcnn_alt_opt.yml

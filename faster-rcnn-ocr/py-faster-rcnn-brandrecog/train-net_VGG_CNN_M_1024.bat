@@ -1,0 +1,1 @@
+python .\tools\train_net.py --gpu 0 --solver models\VGG_CNN_M_1024\faster_rcnn_end2end\solver.prototxt --weights data\imagenet_models\VGG_CNN_M_1024.v2.caffemodel --iters 70000 --cfg experiments\cfgs\faster_rcnn_end2end.yml
