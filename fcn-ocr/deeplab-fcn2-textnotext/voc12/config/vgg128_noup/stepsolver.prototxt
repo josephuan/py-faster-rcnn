@@ -1,0 +1,20 @@
+net: "./gnet108_train.prototxt"
+#test_iter: 5105 
+## make test net, but don't invoke it from the solver itself
+#test_interval: 1000000
+display:100 
+average_loss: 20
+
+base_lr: 1e-7
+lr_policy: "step"
+stepsize:25000
+gamma: 0.1
+# high momentum
+momentum: 0.9
+# no gradient accumulation
+max_iter:100000
+weight_decay: 0.0005
+snapshot:100000
+snapshot_prefix: "./gnet108_"
+
+solver_mode:GPU

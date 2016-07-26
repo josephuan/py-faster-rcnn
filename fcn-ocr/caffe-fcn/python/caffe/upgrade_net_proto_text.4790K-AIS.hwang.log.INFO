@@ -1,0 +1,5 @@
+Log file created at: 2016/07/08 17:30:00
+Running on machine: 4790K-AIS
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0708 17:30:00.716797  7152 upgrade_net_proto_text.cpp:43] File already in latest proto format: 1.prototxt
+I0708 17:30:00.719797  7152 upgrade_net_proto_text.cpp:49] Wrote upgraded NetParameter text proto to 2.prototxt
