@@ -1,0 +1,7 @@
+*.pyc
+*.exp
+*.lib
+*.pdb
+*.pyd
+*.dll
+

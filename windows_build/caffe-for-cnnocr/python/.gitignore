@@ -1,0 +1,9 @@
+*.pyc
+*.exp
+*.lib
+*.pdb
+*.pyd
+*.prototxt
+*.png
+*.binaryproto
+*.npy

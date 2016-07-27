@@ -1,0 +1,16 @@
+/Debug  
+/RELEASE 
+/ipch
+/_UpgradeReport_Files
+/Backup
+/CMakeFiles
+/x64
+/Release
+CMakeCache.txt
+*.opensdf
+*.sdf 
+*.ncb  
+*.plg  
+*.opt  
+*.aps
+*.suo
