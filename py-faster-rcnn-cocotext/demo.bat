@@ -1,0 +1,1 @@
+python .\tools\demo.py --gpu 0 --net zf

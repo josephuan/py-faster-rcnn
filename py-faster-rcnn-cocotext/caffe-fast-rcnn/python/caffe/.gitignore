@@ -1,0 +1,8 @@
+*.dll
+*.pyc
+*.cpp
+*.lib
+*.pdb
+/imagenet
+/test
+

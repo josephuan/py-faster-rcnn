@@ -1,0 +1,1 @@
+python .\tools\train_net.py --gpu 0 --solver .\models\coco\VGG_CNN_M_1024\faster_rcnn_end2end\solver.prototxt --weights data\imagenet_models\VGG_CNN_M_1024.v2.caffemodel --imdb coco_2014_train+coco_2014_valminusminival --iters 490000 --cfg experiments\cfgs\faster_rcnn_end2end.yml
